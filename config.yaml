@@ -1,0 +1,11 @@
+path: C:/Users/Admin/Documents/AI with Python/machine learning model/object-detection # dataset path
+train: images/train  # train folder
+val: images/train   # val folder
+nc: 4 # number of classes
+# classes
+names:
+  0: male-external-genital
+  1: female-vulva
+  2: female-breast
+  3: mouth and male-external-genital
+  
